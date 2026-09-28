@@ -1,0 +1,6 @@
+{
+  "name": "TT Food Delivery",
+  "description": "Production food delivery app with Customer, Seller, Delivery Rider, and Admin roles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
